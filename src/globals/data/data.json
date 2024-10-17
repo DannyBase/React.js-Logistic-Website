@@ -1,0 +1,161 @@
+{
+	"team": {
+		"team1": [
+			{
+				"image": "images/our-team5/pic1.jpg",
+				"name": "Joy Pratt",
+				"designation": "Product designer"
+			},
+			{
+				"image": "images/our-team5/pic2.jpg",
+				"name": "Matt Ben",
+				"designation": "Head of department"
+			},
+			{
+				"image": "images/our-team5/pic3.jpg",
+				"name": "Jane Dave",
+				"designation": "Chief of staff"
+			},
+			{
+				"image": "images/our-team5/pic4.jpg",
+				"name": "Chris Crossin",
+				"designation": "Chief of affairs"
+			}
+		],
+		"team2": [
+			{
+				"image": "images/our-team5/p1.jpg",
+				"name": "Susan White",
+				"designation": "SEO Founder"
+			},
+			{
+				"image": "images/our-team5/p2.jpg",
+				"name": "Joe Johnson",
+				"designation": "Co-Founder"
+			},
+			{
+				"image": "images/our-team5/p3.jpg",
+				"name": "May Horton",
+				"designation": "Marketer"
+			}
+		]
+	},
+	"gallery": [
+		{
+			"category": "cat-1",
+			"image": "images/gallery/pic1.jpg",
+			"image_preview": "images/gallery/pic1.jpg"
+		},
+		{
+			"category": "cat-2",
+			"image": "images/gallery/pic2.jpg",
+			"image_preview": "images/gallery/pic2.jpg"
+		},
+		{
+			"category": "cat-3",
+			"image": "images/gallery/pic3.jpg",
+			"image_preview": "images/gallery/pic3.jpg"
+		},
+		{
+			"category": "cat-4",
+			"image": "images/gallery/pic4.jpg",
+			"image_preview": "images/gallery/pic4.jpg"
+		},
+		{
+			"category": "cat-5",
+			"image": "images/gallery/pic5.jpg",
+			"image_preview": "images/gallery/pic5.jpg"
+		},
+		{
+			"category": "cat-4",
+			"image": "images/gallery/pic6.jpg",
+			"image_preview": "images/gallery/pic6.jpg"
+		},
+		{
+			"category": "cat-3",
+			"image": "images/gallery/pic7.jpg",
+			"image_preview": "images/gallery/pic7.jpg"
+		},
+		{
+			"category": "cat-2",
+			"image": "images/gallery/pic8.jpg",
+			"image_preview": "images/gallery/pic8.jpg"
+		},
+		{
+			"category": "cat-2",
+			"image": "images/gallery/pic1.jpg",
+			"image_preview": "images/gallery/pic1.jpg"
+		}
+	],
+	"services": {
+		"explore": [
+			{
+				"icon": "flaticon-pencil",
+				"title": "Fast Worldwide delivery",
+				"desc_short": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nibh euismod."
+			},
+			{
+				"icon": "flaticon-solution",
+				"title": "Safety & Compliance",
+				"desc_short": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nibh euismod."
+			},
+			{
+				"icon": "flaticon-people-1",
+				"title": "Faster Performance",
+				"desc_short": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nibh euismod."
+			}
+		],
+		"services": [
+			{
+				"image": "images/our-work/pic1.jpg",
+				"image_preview": "images/our-work/pic1.jpg",
+				"title": "Cargo",
+				"desc_short": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+			},
+			{
+				"image": "images/our-work/pic2.jpg",
+				"image_preview": "images/our-work/pic2.jpg",
+				"title": "Logistic Services",
+				"desc_short": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+			},
+			{
+				"image": "images/our-work/pic3.jpg",
+				"image_preview": "images/our-work/pic3.jpg",
+				"title": "Storage",
+				"desc_short": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+			},
+			{
+				"image": "images/our-work/pic4.jpg",
+				"image_preview": "images/our-work/pic4.jpg",
+				"title": "Ground Transport",
+				"desc_short": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+			},
+			{
+				"image": "images/our-work/pic5.jpg",
+				"image_preview": "images/our-work/pic5.jpg",
+				"title": "Trucking Services",
+				"desc_short": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+			},
+			{
+				"image": "images/our-work/pic6.jpg",
+				"image_preview": "images/our-work/pic6.jpg",
+				"title": "Warehousing",
+				"desc_short": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+			}
+		]
+	},
+	"clients": [
+		"images/client-logo/logo1.png",
+		"images/client-logo/logo2.png",
+		"images/client-logo/logo3.png",
+		"images/client-logo/logo4.png",
+		"images/client-logo/logo5.png",
+		"images/client-logo/logo6.png",
+		"images/client-logo/logo7.png",
+		"images/client-logo/logo8.png",
+		"images/client-logo/logo1.png",
+		"images/client-logo/logo2.png",
+		"images/client-logo/logo3.png",
+		"images/client-logo/logo4.png"
+	]
+}

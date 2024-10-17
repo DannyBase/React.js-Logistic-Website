@@ -1,0 +1,178 @@
+/*==Flaticon icon font: Flaticon==*/
+
+@font-face {
+	font-family: Flaticon;
+	src: url(../fonts/Flaticon.eot);
+	src: url(../fonts/Flaticon.eot?#iefix) format("embedded-opentype"),
+	url(../fonts/Flaticon.woff) format("woff"), 
+	url(../fonts/Flaticon.ttf) format("truetype"), 
+	url(../fonts/Flaticon.svg#Flaticon) format("svg");
+	font-weight: 400;
+	font-style: normal
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+	font-family: Flaticon;
+	src: url(../fonts/Flaticon.svg#Flaticon) format("svg")
+}
+}
+[class*=" flaticon-"]:after, [class*=" flaticon-"]:before, [class^=flaticon-]:after, [class^=flaticon-]:before {
+	font-family: Flaticon;
+	font-size: 38px;
+	font-style: normal
+}
+
+
+
+
+.flaticon-construction:before { content: "\f100"; }
+.flaticon-transport-7:before { content: "\f101"; }
+.flaticon-airplane:before { content: "\f102"; }
+.flaticon-transport-6:before { content: "\f103"; }
+.flaticon-transport-5:before { content: "\f104"; }
+.flaticon-transport-4:before { content: "\f105"; }
+.flaticon-solution:before { content: "\f106"; }
+.flaticon-motorbike:before { content: "\f107"; }
+.flaticon-bus-1:before { content: "\f108"; }
+.flaticon-ship-1:before { content: "\f109"; }
+.flaticon-motorcycle:before { content: "\f10a"; }
+.flaticon-tractor-1:before { content: "\f10b"; }
+.flaticon-crane:before { content: "\f10c"; }
+.flaticon-forklift-1:before { content: "\f10d"; }
+.flaticon-tank-wagon:before { content: "\f10e"; }
+.flaticon-truck:before { content: "\f10f"; }
+.flaticon-placeholder:before { content: "\f110"; }
+.flaticon-smartphone:before { content: "\f111"; }
+.flaticon-fax:before { content: "\f112"; }
+.flaticon-hourglass:before { content: "\f113"; }
+.flaticon-time-passing:before { content: "\f114"; }
+.flaticon-customer-service:before { content: "\f115"; }
+.flaticon-email:before { content: "\f116"; }
+.flaticon-group:before { content: "\f117"; }
+.flaticon-loader:before { content: "\f118"; }
+.flaticon-24-hours:before { content: "\f119"; }
+.flaticon-wallet:before { content: "\f11a"; }
+.flaticon-transport-3:before { content: "\f11b"; }
+.flaticon-credit-card:before { content: "\f11c"; }
+.flaticon-transport-2:before { content: "\f11d"; }
+.flaticon-connection:before { content: "\f11e"; }
+.flaticon-people-1:before { content: "\f11f"; }
+.flaticon-transport-1:before { content: "\f120"; }
+.flaticon-pencil:before { content: "\f121"; }
+.flaticon-tractor:before { content: "\f122"; }
+.flaticon-ship:before { content: "\f123"; }
+.flaticon-scooter:before { content: "\f124"; }
+.flaticon-lorry:before { content: "\f125"; }
+.flaticon-forklift:before { content: "\f126"; }
+.flaticon-transport:before { content: "\f127"; }
+.flaticon-taxi:before { content: "\f128"; }
+.flaticon-bus:before { content: "\f129"; }
+.flaticon-people:before { content: "\f12a"; }
+
+/*=================================
+			ICONMOON CSS
+==================================*/
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?rrsgby');
+  src:  url('../fonts/icomoon.eot?rrsgby#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?rrsgby') format('truetype'),
+    url('../fonts/icomoon.woff?rrsgby') format('woff'),
+    url('../fonts/icomoon.svg?rrsgby#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="iconmoon-"], [class*=" iconmoon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconmoon-hours:before {
+  content: "\e900";
+}
+.iconmoon-hours-1:before {
+  content: "\e901";
+}
+.iconmoon-buildings:before {
+  content: "\e902";
+}
+.iconmoon-clock:before {
+  content: "\e903";
+}
+.iconmoon-clock-1:before {
+  content: "\e904";
+}
+.iconmoon-email:before {
+  content: "\e905";
+}
+.iconmoon-envelope:before {
+  content: "\e906";
+}
+.iconmoon-envelope-1:before {
+  content: "\e907";
+}
+.iconmoon-fax:before {
+  content: "\e908";
+}
+.iconmoon-house:before {
+  content: "\e909";
+}
+.iconmoon-placeholder:before {
+  content: "\e90a";
+}
+.iconmoon-smartphone:before {
+  content: "\e90b";
+}
+.iconmoon-smartphone-1:before {
+  content: "\e90c";
+}
+.iconmoon-time:before {
+  content: "\e90d";
+}
+.iconmoon-time-1:before {
+  content: "\e90e";
+}
+.iconmoon-time-2:before {
+  content: "\e90f";
+}
+.iconmoon-travel:before {
+  content: "\e910";
+}
+
+
+
+.icon-xld i,
+.icon-xld [class*="iconmoon-"]::before{
+ font-size:100px;
+}
+.icon-xl i,
+.icon-xl [class*="iconmoon-"]::before{
+ font-size:80px;
+}
+.icon-lg i,
+.icon-lg [class*="iconmoon-"]::before{
+ font-size:60px;
+}
+.icon-md i,
+.icon-md [class*="iconmoon-"]::before{
+ font-size:45px;
+}
+.icon-sm i,
+.icon-sm [class*="iconmoon-"]::before{
+ font-size:30px;
+}
+.icon-xs i,
+.icon-xs [class*="iconmoon-"]::before{
+ font-size:20px;
+}

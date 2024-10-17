@@ -1,0 +1,64 @@
+{
+    "about": {
+        "background": "about-banner.jpg",
+        "title": "About"
+        
+    },
+    "faq": {
+        "background": "faq-banner.jpg",
+        "title": "FAQ"
+    },
+    "team": {
+        "background": "our-team-banner.jpg",
+        "title": "Our Team"
+    },
+    "teamDetail": {
+        "background": "our-team-banner.jpg",
+        "title": "Team Member"
+    },
+    "contact1": {
+        "background": "about-banner.jpg",
+        "title": "Contact "
+    },
+
+    "products": {
+        "background": "about-banner.jpg",
+        "title": "Products"
+    },
+    
+    "error404": {
+        "background": "about-banner.jpg",
+        "title": "Error",
+        "crumb": "Error 404"
+    },
+
+    "footerFixed": {
+        "background": "about-banner.jpg",
+        "title": "Footer Fixed"
+    },
+    "footerLight": {
+        "background": "about-banner.jpg",
+        "title": "Footer Light"
+    },
+    "footerDark": {
+        "background": "about-banner.jpg",
+        "title": "Footer Dark"
+    },
+    "services": {
+        "background": "services.jpg",
+        "title": "Services"
+    },
+    "serviceDetail": {
+        "background": "services.jpg",
+        "title": "Service Details"
+    },
+    "blogGrid": {
+        "background": "blog-banner.jpg",
+        "title": "Blog"
+    },
+    "blogPostSingle": {
+        "background": "blog-banner.jpg",
+        "title": "Blog Post"
+    }
+
+}

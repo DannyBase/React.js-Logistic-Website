@@ -1,0 +1,62 @@
+.loading_progress-container {
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+
+.loading_progress-shadow {
+	position: relative;
+	width: 130px;
+	height: 100px;
+	background-repeat: no-repeat;
+	background-image: linear-gradient(#465f98, #465f95), linear-gradient(#ff5e14, #ff5e14), linear-gradient(#ff5e14, #ff5e14);
+	background-size: 59px 48px, 24px 30px, 30px 18px;
+	background-position: 7px 2px, 65px 20px, 70px 32px;
+  }
+  .loading_progress-shadow:after {
+	content: "";
+	position: absolute;
+	bottom: 35px;
+	left: 18px;
+	width: 6px;
+	height: 6px;
+	background: #fff;
+	border-radius: 50%;
+	box-sizing: content-box;
+	border: 7px solid #363333;
+	box-shadow: 56px 0 0 -7px #fff, 56px 0 #363333;
+	animation: wheelSk 0.75s ease-in infinite alternate;
+  }
+  
+  .loading_progress-shadow:before {
+	content: "";
+	position: absolute;
+	right: 100%;
+	top: -4px;
+	height: 60px;
+	width: 60px;
+	background-image: linear-gradient(#23282f 45px, transparent 0), linear-gradient(#23282f 45px, transparent 0), linear-gradient(#23282f 45px, transparent 0);
+	background-repeat: no-repeat;
+	background-size: 20px 2px;
+	background-position: 6px 8px, 15px 23px, 1px 39px;
+	animation: lineDropping 0.85s linear infinite;
+  }
+  
+  @keyframes wheelSk {
+	0%, 50%, 100% { transform: translatey(0) }
+	30%, 90% { transform: translatey(-3px) }
+  }
+  
+  @keyframes lineDropping {
+	0% {
+	  background-position: 100px 11px, 115px 35px, 105px 60px;
+	  opacity: 1;
+	}
+	50% { background-position: 0px 11px, 20px 35px, 5px 60px }
+	60% { background-position: -30px 11px, 0px 35px, -10px 60px }
+	75%, 100% {
+	  background-position: -30px 11px, -30px 35px, -30px 60px;
+	  opacity: 0;
+	}
+  }
+  
